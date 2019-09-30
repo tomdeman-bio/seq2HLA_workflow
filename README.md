@@ -16,7 +16,7 @@ conda install bowtie
 conda deactivate
 ```
 
-**or using a YML file**
+**or using Conda and a yml file**
 
 ```bash
 conda env create -f Seq2HLA_environment.yml
