@@ -1,6 +1,6 @@
 # seq2HLA_workflow
 
-## Setting up the seq2HLA-workflow environment using Conda: 
+## Setting up the seq2HLA-workflow environment manually using Conda: 
 
 ```bash
 conda create -n Seq2HLA python=2.7
@@ -14,6 +14,12 @@ conda install parallel
 conda install bowtie
 
 conda deactivate
+```
+
+**or using a YML file**
+
+```bash
+conda env create -f Seq2HLA_environment.yml
 ```
 
 ## Execute the pipeline (RNA-Seq data are expected to be in a folder called *raw_data*): 
