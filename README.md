@@ -35,4 +35,4 @@ bash parallel_seq2HLA_flow.sh
 ## Cool and interesting use-case for HLA typing:
 
 * [Austin Nguyen et al. Journal of Virology. 2020](https://jvi.asm.org/content/early/2020/04/16/JVI.00510-20)
-  * Nguyen *et al*. examined how HLA genetic variation affects the cellular immune response to proteins from human-infecting coronaviruses. The authors found that HLA-B\*46:01 had the fewest predicted binding sites to the SARS-COV-2 virus, and HLA-B\*15:03 displayed the greatest capacity to present highly-conserved shared SARS-COV-2 proteins to human immune cells
+  * Nguyen *et al*. examined how HLA genetic variation affects the cellular immune response to proteins from human-infecting coronaviruses. They showed that HLA-B\*46:01 had the fewest predicted binding sites to the SARS-COV-2 virus, and HLA-B\*15:03 displayed the greatest capacity to present highly-conserved SARS-COV-2 proteins to human immune cells
